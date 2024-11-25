@@ -1,0 +1,20 @@
+{
+  "name": "api-rest",
+  "version": "1.0.0",
+  "main": "server.js",
+  "scripts": {
+    "dev": "tsx watch src/server.ts"
+  },
+  "author": "Lucas Pinto",
+  "license": "ISC",
+  "description": "API REST com Node.Js",
+  "devDependencies": {
+    "@types/node": "^20.14.12",
+    "tsx": "^4.16.2",
+    "typescript": "^5.5.4"
+  },
+  "dependencies": {
+    "@types/express": "github:types/express",
+    "express": "^4.19.2"
+  }
+}
