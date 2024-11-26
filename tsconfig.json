@@ -11,6 +11,5 @@
     /* Type Checking */
     "strict": true,                                      
     "skipLibCheck": true,
-    "noImplicitAny": false,
   }
 }
